@@ -9,5 +9,5 @@ func main() {
 	n := 6
 
 	fmt.Println(m / n)
+	fmt.Println("hi div.go")
 }
-
